@@ -14,7 +14,7 @@
 ---
 
 ## About me
-- 🔎 Focus: **Applied NLP**, **LLMs**, and **ML systems** for compliance/regulatory text and large-scale data validation
+- 🔎 Focus: **Applied NLP**, **Computer Vision**, **LLMs**, and **ML systems**
 - 🛠️ Currently: Building LLM‑powered pipelines for information extraction and summarisation from legal/regulatory publications for financial institutions at Quinnox
 - 🧩 Previously: **Data Scientist @ Elucidata** • **SWE (Growth) @ Loop Health** • **SWE @ EY** • **Intern @ EY**
 - 🤝 Open to: Collaborations in **NLP/LLMs**, **ML platforms**, and **computer vision**
