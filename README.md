@@ -52,7 +52,7 @@
 - 🩺 <b>Abbreviation + Long‑Form Detection on PLOD (Biomedical NLP)</b>  
   Sequence classifier for medical text abbreviations; architecture and preprocessing comparisons.  
   <b>Tech:</b> PyTorch, HuggingFace
-- 🍄 <b>Real‑World Fungi Classification</b>  
+- 🍄 <b>Real‑World Knife Classification</b>  
   Fine‑grained classification with EfficientNetB0/ResNet50 and rich augmentations.  
   <b>Tech:</b> PyTorch, Timm, TensorBoard
 - 🔎 <b>Image Retrieval for Visual Similarity Search</b>  
